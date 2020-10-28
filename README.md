@@ -1,2 +1,2 @@
 # PrimerRepo
-Repo semana tec
+Repositorio semana TEC
