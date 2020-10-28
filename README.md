@@ -1,0 +1,2 @@
+# PrimerRepo
+Repo semana tec
